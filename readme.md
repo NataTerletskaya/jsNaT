@@ -12,6 +12,7 @@ GIT
 - git stash
 - git merge
 - git push
+- git log
 
 CONSOLE
 -------
